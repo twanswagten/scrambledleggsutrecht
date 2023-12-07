@@ -27,7 +27,7 @@
 
     <p>Join us for a night of amazing music in Utrecht!</p>
 
-    <p><strong>Date:</strong> [Event Date]</p>
+    <p><strong>Date:</strong> 31-1-2024</p>
     
     <p><strong>Time:</strong> [Event Time]</p>
 
