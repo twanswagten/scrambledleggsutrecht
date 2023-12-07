@@ -6,7 +6,7 @@
     <title>Scrambled Leggs Event</title>
     <style>
         body {
-            font-family: Arial, sans-serif;
+            font-family: Calibri, sans-serif;
             margin: 0;
             padding: 0;
             background-color: #f1C40F;
