@@ -12,7 +12,7 @@
         }
 
         h1 {
-            color: #333;
+            color: #F1B70F;
         }
 
         p {
