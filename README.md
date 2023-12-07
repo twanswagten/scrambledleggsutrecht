@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -7,7 +6,7 @@
     <title>Scrambled Leggs Music Event</title>
     <style>
         body {
-            font-family: Arial, sans-serif;
+            font-family: Cali, sans-serif;
             margin: 20px;
         }
 
