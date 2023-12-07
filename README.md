@@ -1,73 +1,44 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Scrambled Leggs Event</title>
+    <title>Scrambled Leggs Music Event</title>
     <style>
         body {
-            font-family: Calibri, sans-serif;
-            margin: 0;
-            padding: 0;
-            background-color: #f1C40F;
+            font-family: Arial, sans-serif;
+            margin: 20px;
         }
 
-        header {
-            background-color: #333;
-            color: #fff;
-            text-align: center;
-            padding: 1em;
+        h1 {
+            color: #333;
         }
 
-        main {
-            padding: 20px;
-        }
-
-        footer {
-            background-color: #333;
-            color: #fff;
-            text-align: center;
-            padding: 1em;
-            position: fixed;
-            bottom: 0;
-            width: 100%;
+        p {
+            color: #555;
         }
     </style>
 </head>
+
 <body>
 
-    <header>
-        <h1>Scrambled Leggs Event</h1>
-        <p>Join us for a fun-filled event!</p>
-    </header>
+    <h1>Scrambled Leggs Music Event</h1>
 
-    <main>
-        <section>
-            <h2>About the Event</h2>
-            <p>Welcome to Scrambled Leggs, an exciting event that brings people together for a day of fun activities and entertainment. Whether you're a participant or a spectator, there's something for everyone!</p>
-        </section>
+    <p>Join us for a night of amazing music in Utrecht!</p>
 
-        <section>
-            <h2>Event Schedule</h2>
-            <p>Check out the schedule for the day's events:</p>
-            <ul>
-                <li>8:00 AM - Registration</li>
-                <li>9:00 AM - Fun Run</li>
-                <li>11:00 AM - Egg Hunt</li>
-                <li>1:00 PM - Awards Ceremony</li>
-            </ul>
-        </section>
+    <p><strong>Date:</strong> [Event Date]</p>
+    
+    <p><strong>Time:</strong> [Event Time]</p>
 
-        <section>
-            <h2>Registration</h2>
-            <p>Register for the event today to secure your spot!</p>
-            <a href="#">Register Now</a>
-        </section>
-    </main>
+    <p><strong>Location:</strong> [Event Venue], Utrecht</p>
 
-    <footer>
-        <p>&copy; 2023 Scrambled Leggs Event. All rights reserved.</p>
-    </footer>
+    <p>Don't miss the opportunity to enjoy live performances by talented artists. It's going to be a night filled with great music and wonderful vibes.</p>
+
+    <p>Get your tickets now and let's make it a memorable evening!</p>
+
+    <p><em>Presented by [Event Organizer]</em></p>
 
 </body>
+
 </html>
